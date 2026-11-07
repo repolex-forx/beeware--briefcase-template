@@ -1,0 +1,11 @@
+{
+  "org": "beeware",
+  "repo": "briefcase-template",
+  "versions": [
+    {
+      "commit": "d82abb8833cb884eb7a7c5cf3baa7a85b4ccbe62",
+      "tag": "",
+      "parsed_at": "2026-11-07T12:17:27.883221+00:00"
+    }
+  ]
+}
